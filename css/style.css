@@ -1,0 +1,26 @@
+body{
+	font-size:30px;
+	font-family: 'Lobster';
+}
+img{
+	max-width:100%;
+	height:auto;
+	display: block;
+}
+	h1{
+		color:#B22222;
+		font-size:50px;
+	}
+	div{
+		margin:70px;
+		color:#FF4500;
+		width:50%;
+	}
+	p{
+		color: #8B0000;
+	}
+	a{
+		text-decoration: none;
+		color:#000080;
+	}	
+<link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
